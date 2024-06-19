@@ -1,0 +1,11 @@
+res://Level/level.tscn::51ac32608a63870e8aece06e71ad70ad::1718794647::res://.godot/exported/133200997/export-c4be25a6cd29300dd9cba31c4cc13b7a-level.scn
+res://Level/level_2.tscn::925b8e13f054d5b424ba683ff7ef507f::1718794647::res://.godot/exported/133200997/export-88f450b8fd14b723f9edb89dda9b6e96-level_2.scn
+res://Level/level_3.tscn::ceb0acc71045373b3464c8426c773913::1718794647::res://.godot/exported/133200997/export-18dfd88a5b254d152aef59647b843099-level_3.scn
+res://Level/level_4.tscn::e907be69354d8d2f8d5334d58c0da2cf::1718794647::res://.godot/exported/133200997/export-786b7f5ff7d54e3b218729b9cbe35389-level_4.scn
+res://Particles/booster_particles.tscn::7af82a1157a3def9c07a868de1831285::1718794647::res://.godot/exported/133200997/export-551c4813e6d32a2dcd612e26cda5d01e-booster_particles.scn
+res://Particles/explosion_particles.tscn::8457e5caef095dfbbde4781f11c8cbbb::1718366392::res://.godot/exported/133200997/export-12628f9423430829cc6a037bdfacb957-explosion_particles.scn
+res://Particles/success_particles.tscn::a66bb5e4914db34e14d062e6206f4bbf::1718193080::res://.godot/exported/133200997/export-182e415ac7fa2c25e9067788e868d73d-success_particles.scn
+res://floor.tscn::c7ce8416e8e192ed71463e72dd52a5f1::1718794647::res://.godot/exported/133200997/export-401d29878c58658395a1523c1c127694-floor.scn
+res://moving_hazard.tscn::774832407c3e81399edaadb1393c23a7::1718190664::res://.godot/exported/133200997/export-089f71c7f732ad8370ebc1076ef142bd-moving_hazard.scn
+res://player.tscn::e0750dad6c385424eb01f2ea07834916::1718794646::res://.godot/exported/133200997/export-36a25e342948d0ceacc500772b5412b3-player.scn
+res://ShipRedMaterial.tres::67ffa861678eddf941b26724502ad8a1::1718794020::res://.godot/exported/133200997/export-a9e2a046170a53fed60cdce80da2a0a8-ShipRedMaterial.res

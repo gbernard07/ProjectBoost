@@ -1,2 +1,10 @@
-res://Player.gd
 res://player.tscn
+res://moving_hazard.gd
+res://ShipRedMaterial.tres
+res://Level/level.tscn
+res://Level/level_2.tscn
+res://Level/level_3.tscn
+res://Level/level_4.tscn
+res://Particles/booster_particles.tscn
+res://floor.tscn
+res://Player.gd
